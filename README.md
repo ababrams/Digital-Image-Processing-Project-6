@@ -1,3 +1,10 @@
+
+This project was built using Matlab R2020b. In order to run it, you must have the  image processing toolbox and the computer vision toolbox. They can be found by clicking on add-ons -> manage add-ons. 
+
+How to download and Run:
+
+
+
 To use the Manual tab:
 
 VIDEO THAT SHOWS HOW TO USE:
@@ -13,4 +20,17 @@ Instructions:
 6. Select at least 4 points. 
 7. Click X to exit. 
 8. The images will be displayed on the app. (It may take a few seconds)
+
+
+To use the Automatic tab:
+
+1. Click the automatic tab
+2. Click Register Automatically
+3. The image registration will be populated automatically
+
+
+Manually Selected Points vs Harris Corner Dectector Points:
+I selected points in the image that corresponded more closely with the edges of the main object in the image. The harris corner dectector focused on points where the image had drastic changes in color. There were far more points in those areas than on the boundaries of the object in focus.
+
+Testing:
 
