@@ -5,7 +5,7 @@ This project was built using Matlab R2020b. In order to run it, you must have th
 
 **To use the Manual tab:**
 
-**VIDEO THAT SHOWS HOW TO USE:****
+**VIDEO THAT SHOWS HOW TO USE:**
 https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 
 **Instructions:**
