@@ -33,16 +33,16 @@ I selected points in the image that corresponded more closely with the edges of 
 
 **Testing:**
 
-Test1:
+1. Test1:
 Select no points in the control point pop-up
 Result: Console output "Validate Control Points Error" - PASS
-Test2:
-select 3 points in the control point pop-up
+2. Test2:
+Select 3 points in the control point pop-up
 Result: Console output "Validate Control Points Error" - PASS
-Test3:
+3. Test3:
 select 4 points in the control point pop-up
 Result: Registered Image was populated - PASS
-Test4:
+4. Test4:
 The register automatically button was pressed
 Result: Registered Image was populated - PASS
 
