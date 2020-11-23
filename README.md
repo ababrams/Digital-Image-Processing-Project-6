@@ -9,6 +9,7 @@ This project was built using Matlab R2020b. In order to run it, you must have th
 https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 
 **Detect Harris Feature Interesting Points**
+
 ![Example Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/manualPoints.JPG)
 
 **Instructions:**
@@ -30,9 +31,13 @@ https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 3. The image registration will be populated automatically
 
 **Detect Harris Features Automatic Matched Points**
+
 Mid Image and Left Image
+
 ![Example Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/left_mid.JPG)
+
 Mid Image and Right Image
+
 ![Example Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/right-mid.JPG)
 
 
