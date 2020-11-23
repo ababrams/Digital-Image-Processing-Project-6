@@ -41,7 +41,7 @@ I selected points in the image that corresponded more closely with the edges of 
 
 ![Interesting Points](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/manualPoints.JPG)
 
-Automatic registrastion relies on the detect harris features to match good corresponding points from each image. By iterating through the pairs
+Automatic registration relies on the detect harris features to match good corresponding points from each image. By iterating through the pairs
 of images they could be resampled to these matches and blend together, creating the mosaic.
 
 **Testing:**
