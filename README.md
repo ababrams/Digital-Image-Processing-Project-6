@@ -8,10 +8,6 @@ This project was built using Matlab R2020b. In order to run it, you must have th
 **VIDEO THAT SHOWS HOW TO USE:**
 https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 
-**Detect Harris Feature Interesting Points**
-
-![Interesting Points](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/manualPoints.JPG)
-
 **Instructions:**
 
 1. Click Register Manually
@@ -40,6 +36,13 @@ https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 **Manually Selected Points vs Harris Corner Dectector Points:**
 
 I selected points in the image that corresponded more closely with the edges of the main object in the image. The harris corner dectector focused on points where the image had drastic changes in color. There were far more points in those areas than on the boundaries of the object in focus.
+
+**Detect Harris Feature Interesting Points**
+
+![Interesting Points](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/manualPoints.JPG)
+
+Automatic registrastion relies on the detect harris features to match good corresponding points from each image. By iterating through the pairs
+of images they could be resampled to these matches and blend together, creating the mosaic.
 
 **Testing:**
 
