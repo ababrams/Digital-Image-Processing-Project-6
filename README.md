@@ -33,18 +33,19 @@ I selected points in the image that corresponded more closely with the edges of 
 
 **Testing:**
 
-1. Test1:
-Select no points in the control point pop-up
-Result: Console output "Validate Control Points Error" - PASS
-2. Test2:
-Select 3 points in the control point pop-up
-Result: Console output "Validate Control Points Error" - PASS
-3. Test3:
-select 4 points in the control point pop-up
-Result: Registered Image was populated - PASS
-4. Test4:
-The register automatically button was pressed
-Result: Registered Image was populated - PASS
+- *Test1:*
+- Select no points in the control point pop-up
+- Result: Console output "Validate Control Points Error" - PASS
+- *Test2:*
+- Select 3 points in the control point pop-up
+- Result: Console output "Validate Control Points Error" - PASS
+- *Test3*:
+- select 4 points in the control point pop-up
+- Result: Registered Image was populated - PASS
+- *Test4:*
+- The register automatically button was pressed
+- Result: Registered Image was populated - PASS
+
 
 These are only types of tests conducted for program. The rest of the program is self contained and cannot deviate from normal operation if the requirements are meet.
 
