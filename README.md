@@ -10,7 +10,7 @@ https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 
 **Detect Harris Feature Interesting Points**
 
-![Example Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/manualPoints.JPG)
+![Interesting Points](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/manualPoints.JPG)
 
 **Instructions:**
 
@@ -32,13 +32,9 @@ https://web.microsoftstream.com/video/aa25dba1-2c15-4f62-81cb-ad79ac3e4ab7
 
 **Detect Harris Features Automatic Matched Points**
 
-Mid Image and Left Image
+![Mid and Left Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/left_mid.JPG)
 
-![Example Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/left_mid.JPG)
-
-Mid Image and Right Image
-
-![Example Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/right-mid.JPG)
+![Mid and Right Image](https://gitlab.cs.ecu.edu/digital-image-processing/project-6-registration/-/blob/master/right-mid.JPG)
 
 
 **Manually Selected Points vs Harris Corner Dectector Points:**
